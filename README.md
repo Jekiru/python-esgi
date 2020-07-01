@@ -14,3 +14,5 @@ Quand une connexion valide FTP est détecté :
 
 Quand un connexion HTTP est détecté:
 
+![Capture d’écran du 2020-07-01 20-14-38](https://user-images.githubusercontent.com/67002259/86277740-87448980-bbd7-11ea-8bd5-3b5fc78aacd1.png)
+
